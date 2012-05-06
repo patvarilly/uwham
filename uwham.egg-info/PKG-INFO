@@ -1,0 +1,24 @@
+Metadata-Version: 1.0
+Name: uwham
+Version: 1.0
+Summary: Pure Python implementation of UWHAM (cf. MBAR, WHAM)
+Home-page: http://github.com/patvarilly/uwham
+Author: Patrick Varilly
+Author-email: pv271@cam.ac.uk
+License: GPLv3
+Download-URL: http://github.com/patvarilly/uwham/downloads
+Description: UNKNOWN
+Platform: Linux
+Platform: Unix
+Platform: Mac OS-X
+Platform: Windows
+Platform: Solaris
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering

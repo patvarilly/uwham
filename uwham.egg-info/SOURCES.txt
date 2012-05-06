@@ -1,0 +1,10 @@
+COPYING.txt
+MANIFEST.in
+README.txt
+setup.py
+uwham.py
+uwham.egg-info/PKG-INFO
+uwham.egg-info/SOURCES.txt
+uwham.egg-info/dependency_links.txt
+uwham.egg-info/requires.txt
+uwham.egg-info/top_level.txt
